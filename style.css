@@ -35,3 +35,10 @@ main {
   height: 500px;
 }
 
+.name-lastname {
+  display: flex;
+}
+
+.email-house {
+  display: flex;
+}
