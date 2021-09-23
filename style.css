@@ -42,3 +42,12 @@ main {
 .email-house {
   display: flex;
 }
+
+footer {
+  display: flex;
+  background-color: rgb(26, 25, 25);
+  color: white;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+}
