@@ -82,5 +82,6 @@ Família: ${foundFamily()};
 Matérias: ${foundDisciplines()};
 Avaliação: ${foundEvaluation()};
 Observações: ${textArea.value}`;
+
   forms.innerHTML = listInscription;
 });
