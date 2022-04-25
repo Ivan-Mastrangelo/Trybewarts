@@ -15,11 +15,11 @@ Neste projeto desenvolvemos uma página de formulário da Escola de Magia de Try
 
 Basta clonar o projeto:
 ```
-git@github.com:Ivan-Mastrangelo/Pixels-art.git
+git@github.com:Ivan-Mastrangelo/Trybewarts.git
 ```
 Entrar no diretório criado:
 ```
-  cd Pixels-art
+  cd Trybewarts
   ```
 Instalar as dependências do projeto:
 ```
