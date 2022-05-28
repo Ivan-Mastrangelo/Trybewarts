@@ -25,4 +25,10 @@ Instalar as dependências do projeto:
 ```
   npm install
   ```
-E rodá-lo em seu browser, caso utilize o VScode, clique em Go Live.
+À partir daí basta abrir a pasta e executar o arquivo index.html, ou , caso utilize o VScode, clique em Go Live para utilizar o Live Server:
+
+```
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+```
+
+---
